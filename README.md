@@ -6,4 +6,8 @@
 #sure need push?
 #add test branch
 #reoare del test
+<<<<<<< HEAD
 #master mod README.md
+=======
+#add test
+>>>>>>> test
