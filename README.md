@@ -13,3 +13,4 @@
 >>>>>>> test
 #add --no -f
 #add fast-forward
+#stash
