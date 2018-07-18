@@ -12,3 +12,4 @@
 #add test
 >>>>>>> test
 #add --no -f
+#add fast-forward
