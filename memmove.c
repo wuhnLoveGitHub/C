@@ -11,3 +11,4 @@ int main(int argc, char *argv[])
     memmove(buf+1,buf+1,2);
     puts(buf);
 }
+//fix bug
